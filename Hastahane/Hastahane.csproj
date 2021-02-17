@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{48AAA517-619A-49A6-92A5-91D901D02AFA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hastahane</RootNamespace>
+    <AssemblyName>Hastahane</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BölEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BölEkle.Designer.cs">
+      <DependentUpon>BölEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BölGüncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BölGüncelle.Designer.cs">
+      <DependentUpon>BölGüncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BölSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BölSil.Designer.cs">
+      <DependentUpon>BölSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BölTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BölTab.Designer.cs">
+      <DependentUpon>BölTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DokEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DokEkle.Designer.cs">
+      <DependentUpon>DokEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DokGüncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DokGüncelle.Designer.cs">
+      <DependentUpon>DokGüncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doksil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doksil.Designer.cs">
+      <DependentUpon>doksil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastahaneDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastahaneDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HastahaneDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastahaneDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HastahaneDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastahaneDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HastahaneDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastahaneDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HastahaneDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastahaneDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HastahaneDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastahaneDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HastahaneDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastahaneDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HastahaneDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastahaneDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HastahaneDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastahaneDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HastahaneDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastahaneDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HastahaneDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastahaneDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Hastahane_yonetim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hastahane_yonetim.Designer.cs">
+      <DependentUpon>Hastahane_yonetim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hasta_kayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hasta_kayit.Designer.cs">
+      <DependentUpon>Hasta_kayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Randevu_Al.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Randevu_Al.Designer.cs">
+      <DependentUpon>Randevu_Al.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Randevu_Sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Randevu_Sil.Designer.cs">
+      <DependentUpon>Randevu_Sil.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BölEkle.resx">
+      <DependentUpon>BölEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BölGüncelle.resx">
+      <DependentUpon>BölGüncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BölSil.resx">
+      <DependentUpon>BölSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BölTab.resx">
+      <DependentUpon>BölTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DokEkle.resx">
+      <DependentUpon>DokEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DokGüncelle.resx">
+      <DependentUpon>DokGüncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doksil.resx">
+      <DependentUpon>doksil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hastahane_yonetim.resx">
+      <DependentUpon>Hastahane_yonetim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hasta_kayit.resx">
+      <DependentUpon>Hasta_kayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Randevu_Al.resx">
+      <DependentUpon>Randevu_Al.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Randevu_Sil.resx">
+      <DependentUpon>Randevu_Sil.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="HastahaneDataSet.xsc">
+      <DependentUpon>HastahaneDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastahaneDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastahaneDataSet.xss">
+      <DependentUpon>HastahaneDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet1.xsc">
+      <DependentUpon>HastahaneDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastahaneDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastahaneDataSet1.xss">
+      <DependentUpon>HastahaneDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet10.xsc">
+      <DependentUpon>HastahaneDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastahaneDataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastahaneDataSet10.xss">
+      <DependentUpon>HastahaneDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet2.xsc">
+      <DependentUpon>HastahaneDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastahaneDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastahaneDataSet2.xss">
+      <DependentUpon>HastahaneDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet3.xsc">
+      <DependentUpon>HastahaneDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastahaneDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastahaneDataSet3.xss">
+      <DependentUpon>HastahaneDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet4.xsc">
+      <DependentUpon>HastahaneDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastahaneDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastahaneDataSet4.xss">
+      <DependentUpon>HastahaneDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet5.xsc">
+      <DependentUpon>HastahaneDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastahaneDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastahaneDataSet5.xss">
+      <DependentUpon>HastahaneDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet6.xsc">
+      <DependentUpon>HastahaneDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastahaneDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastahaneDataSet6.xss">
+      <DependentUpon>HastahaneDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet7.xsc">
+      <DependentUpon>HastahaneDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastahaneDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastahaneDataSet7.xss">
+      <DependentUpon>HastahaneDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet8.xsc">
+      <DependentUpon>HastahaneDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastahaneDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastahaneDataSet8.xss">
+      <DependentUpon>HastahaneDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet9.xsc">
+      <DependentUpon>HastahaneDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="HastahaneDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastahaneDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastahaneDataSet9.xss">
+      <DependentUpon>HastahaneDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

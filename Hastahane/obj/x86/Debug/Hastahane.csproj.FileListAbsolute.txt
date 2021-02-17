@@ -1,0 +1,61 @@
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\bin\Debug\Hastahane.exe
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\bin\Debug\Hastahane.pdb
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.csprojResolveAssemblyReference.cache
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.Form1.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.Hastahane_yonetim.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.Hasta_kayit.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.Properties.Resources.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.Randevu_Al.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.Randevu_Sil.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.csproj.GenerateResource.Cache
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.exe
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.pdb
+C:\Users\casper-\documents\visual studio 2010\Projects\Hastahane\Hastahane\bin\Debug\Hastahane.exe.config
+C:\Users\casper-\documents\visual studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.BölTab.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\bin\Debug\Hastahane.exe.config
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.exe
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.pdb
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.csprojResolveAssemblyReference.cache
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.Form1.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.Hastahane_yonetim.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.Hasta_kayit.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.Properties.Resources.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.Randevu_Al.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.Randevu_Sil.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.csproj.GenerateResource.Cache
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\bin\Debug\Hastahane.exe
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\bin\Debug\Hastahane.pdb
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.BölEkle.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.BölTab.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.DokEkle.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.doksil.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.BölGüncelle.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.BölSil.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hast_Deneme\Hastahane\obj\x86\Debug\Hastahane.DokGüncelle.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.BölEkle.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.BölGüncelle.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.BölSil.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.DokEkle.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.DokGüncelle.resources
+C:\Users\casper-\Documents\Visual Studio 2010\Projects\Hastahane\Hastahane\obj\x86\Debug\Hastahane.doksil.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\bin\Debug\Hastahane.exe.config
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\bin\Debug\Hastahane.exe
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\bin\Debug\Hastahane.pdb
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.csprojAssemblyReference.cache
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.BölEkle.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.BölGüncelle.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.BölSil.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.BölTab.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.DokEkle.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.DokGüncelle.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.doksil.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.Form1.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.Hastahane_yonetim.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.Hasta_kayit.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.Properties.Resources.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.Randevu_Al.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.Randevu_Sil.resources
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.csproj.GenerateResource.cache
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.csproj.CoreCompileInputs.cache
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.exe
+C:\esra_yedek\Esra_Gecici\PC Yedek\net\ESRA\Beuodev_logokl_querynot_karısık\BEU_Sql projeleri ile ilgili dökümanlarım\Yeni klasör\Hastahane_Projesi\Hastahane\Hastahane\obj\x86\Debug\Hastahane.pdb
